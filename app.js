@@ -8,3 +8,5 @@ prompt.get('guess', (err, result) => {
   console.log(result.name + " " + result.guess)
 })
 
+
+// TODO: Build the game runtime function
